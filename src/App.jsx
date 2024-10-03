@@ -6,6 +6,7 @@ import Modal from './components/Modal.jsx';
 import DeleteConfirmation from './components/DeleteConfirmation.jsx';
 import logoImg from './assets/logo.png';
 
+
 function App() {
   const modal = useRef();
   const selectedPlace = useRef();
